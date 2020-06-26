@@ -1,0 +1,73 @@
+@{
+    ViewData["Title"] = "Add a Property";
+}
+
+@model Property
+
+<div class="row">
+    <div class="col-12 text-center">
+        <h1>Add a Property</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12 col-md-10 offset-md-1">
+        <form asp-action="CreateProperty" asp-controller="Home" method="post">
+
+            <div class="form-group">
+                <label asp-for="Title"></label>&nbsp<span asp-validation-for="Title" class="error-message"></span>
+                <input asp-for="Title" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="ListingType"></label>&nbsp<span asp-validation-for="ListingType" class="error-message"></span>
+                <select asp-for="ListingType" class ="form-control">
+                    <option value="Sale">For Sale</option>
+                    <option value="Rent">For Rent</option>
+                </select>
+                @* <input asp-for="ListingType" class="form-control" /> *@
+            </div>
+            <div class="form-group">
+                <label asp-for="Address"></label>&nbsp<span asp-validation-for="Address" class="error-message"></span>
+                <input asp-for="Address" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Description"></label>&nbsp<span asp-validation-for="Description" class="error-message"></span>
+                <input asp-for="Description" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Price"></label>&nbsp<span asp-validation-for="Price" class="error-message"></span>
+                <input asp-for="Price" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Bedrooms"></label>&nbsp<span asp-validation-for="Bedrooms" class="error-message"></span>
+                <input asp-for="Bedrooms" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Baths"></label>&nbsp<span asp-validation-for="Baths" class="error-message"></span>
+                <input asp-for="Baths" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="SqFt"></label>&nbsp<span asp-validation-for="SqFt" class="error-message"></span>
+                <input asp-for="SqFt" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="LotSize"></label>&nbsp<span asp-validation-for="LotSize" class="error-message"></span>
+                <input asp-for="LotSize" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Year"></label>&nbsp<span asp-validation-for="Year" class="error-message"></span>
+                <input asp-for="Year" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="ImgUrl"></label>&nbsp<span asp-validation-for="ImgUrl" class="error-message"></span>
+                <input asp-for="ImgUrl" class="form-control" />
+            </div>
+
+            <div class="form-group text-right">
+                <button class="btn btn-primary">Upload</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+

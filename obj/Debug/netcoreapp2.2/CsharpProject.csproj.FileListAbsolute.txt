@@ -1,0 +1,78 @@
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/bin/Debug/netcoreapp2.2/CsharpProject.deps.json
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/bin/Debug/netcoreapp2.2/CsharpProject.runtimeconfig.json
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/bin/Debug/netcoreapp2.2/CsharpProject.runtimeconfig.dev.json
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/bin/Debug/netcoreapp2.2/CsharpProject.dll
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/bin/Debug/netcoreapp2.2/CsharpProject.pdb
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/bin/Debug/netcoreapp2.2/CsharpProject.Views.dll
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/bin/Debug/netcoreapp2.2/CsharpProject.Views.pdb
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.csprojAssemblyReference.cache
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.csproj.CoreCompileInputs.cache
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorAssemblyInfo.cache
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorAssemblyInfo.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.AssemblyInfoInputs.cache
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.AssemblyInfo.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.TagHelpers.input.cache
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.TagHelpers.output.cache
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorCoreGenerate.cache
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorTargetAssemblyInfo.cache
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorTargetAssemblyInfo.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.Views.pdb
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.dll
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.pdb
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/CsharpProject.csproj.CopyComplete
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/LoginPartial.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/PropertyDetails.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/RegistrationPartial.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.csprojAssemblyReference.cache
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.csproj.CoreCompileInputs.cache
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorAssemblyInfo.cache
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorAssemblyInfo.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.AssemblyInfoInputs.cache
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.AssemblyInfo.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.dll
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.pdb
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/bin/Debug/netcoreapp2.2/CsharpProject.deps.json
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/bin/Debug/netcoreapp2.2/CsharpProject.runtimeconfig.json
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/bin/Debug/netcoreapp2.2/CsharpProject.runtimeconfig.dev.json
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/bin/Debug/netcoreapp2.2/CsharpProject.dll
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/bin/Debug/netcoreapp2.2/CsharpProject.pdb
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/bin/Debug/netcoreapp2.2/CsharpProject.Views.dll
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/bin/Debug/netcoreapp2.2/CsharpProject.Views.pdb
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.TagHelpers.input.cache
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.TagHelpers.output.cache
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorCoreGenerate.cache
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Dashboard.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/LoginPartial.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/PropertyDetails.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/RegistrationPartial.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorTargetAssemblyInfo.cache
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.RazorTargetAssemblyInfo.cs
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.Views.pdb
+/Users/mrbeck/Desktop/coding dojo/c#/week4/proj/CSharpProject/obj/Debug/netcoreapp2.2/CsharpProject.csproj.CopyComplete
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Subscribe.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/LogAndReg.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Dashboard.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/CreatePropertyForm.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Buyer.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Community.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Renter.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Seller.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Edit.g.cshtml.cs
+/Users/patrickhebert/Desktop/Developer/c#_stack/CsharpProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/map.g.cshtml.cs

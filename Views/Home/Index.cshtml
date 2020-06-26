@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+@model List<Property>
+
+  @* Hero Test1*@
+  <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+  <div class="col-md-10 p-lg-5 mx-auto my-5">
+    <h1 class="display-4 font-weight-normal">Welcome To Swillow</h1>
+    <p class="lead font-weight-normal">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad vitae expedita voluptas officia labore voluptatum</p>
+<div class="col-md-10 p-lg-5 mx-auto my-2">
+    <form asp-controller = "Home" asp-action="Index" class="form-inline mt-2 mt-md-0">
+        <input class="form-control mr-sm-2" name ="SearchString" type="text" placeholder="City, Zipcode" aria-label="Search">
+        <button class="btn btn-outline-secondary" type="submit">Search</button>
+        @* I need to be watching Neil's forum demo. I think it had  search features *@
+        <a asp-action="Dashboard" class="btn btn-secondary my-2" style="margin-left:10px">View All Properties</a>
+    </form>
+</div>
+    
+    
+  <div class="product-device shadow-sm d-none d-md-block"></div>
+  <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
+</div>
+
+
+
